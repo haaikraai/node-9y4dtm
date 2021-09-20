@@ -1,0 +1,29 @@
+
+
+.full-width {
+  display: block;
+  background-color: rgb(196, 190, 190);
+  border: 2px;
+  width: 200px;
+  margin: 15px auto 0 auto;
+
+}
+
+.formdesign {
+  display: flex;
+  width: 200px;
+  padding: 8px 2px;
+  margin: 7px 5px;
+  text-align: center;
+  justify-content: center;
+}
+
+.inputstyle {
+  border-bottom: solid 2px gray;
+}
+
+.btnstyle {
+  text-align: left;
+  padding: 0px;
+  margin-top: 10px;
+}

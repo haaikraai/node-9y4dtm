@@ -1,0 +1,13 @@
+mat-form-field {
+  display: flex;
+  justify-content: center;
+}
+
+textarea {
+  margin: auto;
+}
+
+button {
+  margin: 7px auto;
+  align-self: right;
+}

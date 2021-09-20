@@ -1,0 +1,10 @@
+img {
+  cursor: pointer;
+  margin-right: 20px;
+  max-width: 150px;
+  min-width: 50px;
+}
+
+.centerthis {
+  justify-self: center;
+}
